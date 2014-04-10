@@ -10,10 +10,15 @@ Thank you to all who attended and participated.
 
 
 Special thanks to:
+
     Massimo Di Pierro
+
     Harry Percival      (https://twitter.com/hjwp)
+
     Laura D Koller      (https://twitter.com/mudpuppy81)
+
     Mike Deutsch        (https://twitter.com/mdeutschmtl)
+
     Marta Maria Casetti (https://twitter.com/mmcasetti)
 
 
