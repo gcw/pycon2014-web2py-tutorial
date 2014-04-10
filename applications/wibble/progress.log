@@ -1,0 +1,5 @@
+[2014-04-09 10:02:07] START
+[2014-04-09 10:05:13] EDIT wibble/controllers/default.py: 2
+[2014-04-09 10:43:49] CREATE default/greeting.html: 0
+[2014-04-09 10:46:10] EDIT wibble/views/default/greeting.html: 29
+[2014-04-09 11:08:36] EDIT wibble/controllers/default.py: 0

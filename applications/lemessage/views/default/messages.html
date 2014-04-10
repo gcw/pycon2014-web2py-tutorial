@@ -1,0 +1,14 @@
+{{extend 'layout.html'}}
+{{message_count = len(messages)}}
+{{if message_count > 0:}}
+  {{for message in messages:}}
+<span>{{=message.body}}</span><br/>
+  {{pass}}
+{{else:}}
+  {{="totaly blank slate dude! rip it up!!"}}
+{{pass}}
+<br/>
+<hr/>
+{{if 'form' in globals():}}
+  {{=form}}
+{{pass}}

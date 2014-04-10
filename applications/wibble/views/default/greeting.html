@@ -1,0 +1,11 @@
+{{left_sidebar_enabled,right_sidebar_enabled=False,('message' in globals())}}
+{{extend 'layout.html'}}
+
+<h3>{{=message}}</h3>
+<h2>{{=planet}}</h2>
+
+{{for timbit in planet:}}{{=P(timbit)}}{{pass}}
+
+
+
+
